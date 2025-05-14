@@ -1,4 +1,4 @@
-# 💊 Data Management – Pharmaceutical Sales Analysis
+# Data Management – Pharmaceutical Sales Analysis
 
 This repository contains the final group project report for the *Data Management* module at the University of Warwick, as part of the MSc Business Analytics programme.
 
@@ -6,7 +6,7 @@ The project focuses on building and managing a simulated relational database for
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 - Develop a fully normalized database schema in SQLite
 - Populate the schema with realistic synthetic data (CSV inputs)
@@ -15,7 +15,7 @@ The project focuses on building and managing a simulated relational database for
 
 ---
 
-## 📎 Included File
+## Included File
 
 - [`Data_Management_Group_Project_Report.pdf`](./Data_Management_Group_Project_Report.pdf)  
   This PDF contains the full report including:
@@ -29,7 +29,7 @@ The project focuses on building and managing a simulated relational database for
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **SQLite** – Database engine
 - **Python** (`sqlite3`, `csv`, `pandas`) – For batch import, data manipulation, and querying
@@ -38,7 +38,7 @@ The project focuses on building and managing a simulated relational database for
 
 ---
 
-## 📊 Sample Insights Derived
+## Sample Insights Derived
 
 - Month-over-month sales distribution of Alunbrig and competitors
 - Comparison of total units sold by contracted vs non-contracted payers
@@ -47,7 +47,7 @@ The project focuses on building and managing a simulated relational database for
 
 ---
 
-## ⚠️ Data Disclaimer
+## Data Disclaimer
 
 The dataset used in this project is **synthetic and educational**, created for academic purposes only. No real patient, payer, or proprietary business data is included. The data files themselves are not published, but the logic and structure are fully reproducible based on the included code. 
 
